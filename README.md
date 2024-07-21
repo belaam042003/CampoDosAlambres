@@ -1,4 +1,4 @@
-# Campo Magnético de Alambres
+# Campo Magnético de Dos Alambres
 
 Este repositorio contiene un código en Python para calcular y visualizar el campo magnético producido por dos alambres rectilíneos y largos en el plano yz. Utiliza bibliotecas como `numpy`, `matplotlib`, y `ipywidgets` para realizar cálculos y generar gráficos interactivos.
 
